@@ -21,6 +21,15 @@
 		93BCA14B192A5B3D00401D89 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93BCA12D192A5B3D00401D89 /* UIKit.framework */; };
 		93BCA153192A5B3D00401D89 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 93BCA151192A5B3D00401D89 /* InfoPlist.strings */; };
 		93BCA155192A5B3D00401D89 /* TestApp2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA154192A5B3D00401D89 /* TestApp2Tests.m */; };
+		93BCA171192A7BE200401D89 /* ACHomeCBBCustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA161192A7BE200401D89 /* ACHomeCBBCustomCell.m */; };
+		93BCA172192A7BE200401D89 /* ACHomeCustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA164192A7BE200401D89 /* ACHomeCustomCell.m */; };
+		93BCA173192A7BE200401D89 /* AFAppDotNetAPIClient 2.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA166192A7BE200401D89 /* AFAppDotNetAPIClient 2.m */; };
+		93BCA174192A7BE200401D89 /* AFAppDotNetAPIClient 3.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA168192A7BE200401D89 /* AFAppDotNetAPIClient 3.m */; };
+		93BCA175192A7BE200401D89 /* AFAppDotNetAPIClient 4.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA16A192A7BE200401D89 /* AFAppDotNetAPIClient 4.m */; };
+		93BCA176192A7BE200401D89 /* AFAppDotNetAPIClient 5.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA16C192A7BE200401D89 /* AFAppDotNetAPIClient 5.m */; };
+		93BCA177192A7BE200401D89 /* AFAppDotNetAPIClient 6.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA16D192A7BE200401D89 /* AFAppDotNetAPIClient 6.m */; };
+		93BCA178192A7BE200401D89 /* AFAppDotNetAPIClient 7.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA16E192A7BE200401D89 /* AFAppDotNetAPIClient 7.m */; };
+		93BCA179192A7BE200401D89 /* AFAppDotNetAPIClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA170192A7BE200401D89 /* AFAppDotNetAPIClient.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +62,23 @@
 		93BCA150192A5B3D00401D89 /* TestApp2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestApp2Tests-Info.plist"; sourceTree = "<group>"; };
 		93BCA152192A5B3D00401D89 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		93BCA154192A5B3D00401D89 /* TestApp2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestApp2Tests.m; sourceTree = "<group>"; };
+		93BCA160192A7BE200401D89 /* ACHomeCBBCustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACHomeCBBCustomCell.h; sourceTree = "<group>"; };
+		93BCA161192A7BE200401D89 /* ACHomeCBBCustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACHomeCBBCustomCell.m; sourceTree = "<group>"; };
+		93BCA162192A7BE200401D89 /* ACHomeConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACHomeConstants.h; sourceTree = "<group>"; };
+		93BCA163192A7BE200401D89 /* ACHomeCustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACHomeCustomCell.h; sourceTree = "<group>"; };
+		93BCA164192A7BE200401D89 /* ACHomeCustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACHomeCustomCell.m; sourceTree = "<group>"; };
+		93BCA165192A7BE200401D89 /* AFAppDotNetAPIClient 2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AFAppDotNetAPIClient 2.h"; sourceTree = "<group>"; };
+		93BCA166192A7BE200401D89 /* AFAppDotNetAPIClient 2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AFAppDotNetAPIClient 2.m"; sourceTree = "<group>"; };
+		93BCA167192A7BE200401D89 /* AFAppDotNetAPIClient 3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AFAppDotNetAPIClient 3.h"; sourceTree = "<group>"; };
+		93BCA168192A7BE200401D89 /* AFAppDotNetAPIClient 3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AFAppDotNetAPIClient 3.m"; sourceTree = "<group>"; };
+		93BCA169192A7BE200401D89 /* AFAppDotNetAPIClient 4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AFAppDotNetAPIClient 4.h"; sourceTree = "<group>"; };
+		93BCA16A192A7BE200401D89 /* AFAppDotNetAPIClient 4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AFAppDotNetAPIClient 4.m"; sourceTree = "<group>"; };
+		93BCA16B192A7BE200401D89 /* AFAppDotNetAPIClient 5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AFAppDotNetAPIClient 5.h"; sourceTree = "<group>"; };
+		93BCA16C192A7BE200401D89 /* AFAppDotNetAPIClient 5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AFAppDotNetAPIClient 5.m"; sourceTree = "<group>"; };
+		93BCA16D192A7BE200401D89 /* AFAppDotNetAPIClient 6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AFAppDotNetAPIClient 6.m"; sourceTree = "<group>"; };
+		93BCA16E192A7BE200401D89 /* AFAppDotNetAPIClient 7.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AFAppDotNetAPIClient 7.m"; sourceTree = "<group>"; };
+		93BCA16F192A7BE200401D89 /* AFAppDotNetAPIClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFAppDotNetAPIClient.h; sourceTree = "<group>"; };
+		93BCA170192A7BE200401D89 /* AFAppDotNetAPIClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFAppDotNetAPIClient.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +143,23 @@
 				93BCA13B192A5B3D00401D89 /* Main.storyboard */,
 				93BCA13E192A5B3D00401D89 /* ViewController.h */,
 				93BCA13F192A5B3D00401D89 /* ViewController.m */,
+				93BCA160192A7BE200401D89 /* ACHomeCBBCustomCell.h */,
+				93BCA161192A7BE200401D89 /* ACHomeCBBCustomCell.m */,
+				93BCA162192A7BE200401D89 /* ACHomeConstants.h */,
+				93BCA163192A7BE200401D89 /* ACHomeCustomCell.h */,
+				93BCA164192A7BE200401D89 /* ACHomeCustomCell.m */,
+				93BCA165192A7BE200401D89 /* AFAppDotNetAPIClient 2.h */,
+				93BCA166192A7BE200401D89 /* AFAppDotNetAPIClient 2.m */,
+				93BCA167192A7BE200401D89 /* AFAppDotNetAPIClient 3.h */,
+				93BCA168192A7BE200401D89 /* AFAppDotNetAPIClient 3.m */,
+				93BCA169192A7BE200401D89 /* AFAppDotNetAPIClient 4.h */,
+				93BCA16A192A7BE200401D89 /* AFAppDotNetAPIClient 4.m */,
+				93BCA16B192A7BE200401D89 /* AFAppDotNetAPIClient 5.h */,
+				93BCA16C192A7BE200401D89 /* AFAppDotNetAPIClient 5.m */,
+				93BCA16D192A7BE200401D89 /* AFAppDotNetAPIClient 6.m */,
+				93BCA16E192A7BE200401D89 /* AFAppDotNetAPIClient 7.m */,
+				93BCA16F192A7BE200401D89 /* AFAppDotNetAPIClient.h */,
+				93BCA170192A7BE200401D89 /* AFAppDotNetAPIClient.m */,
 				93BCA141192A5B3D00401D89 /* Images.xcassets */,
 				93BCA130192A5B3D00401D89 /* Supporting Files */,
 			);
@@ -249,9 +292,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93BCA177192A7BE200401D89 /* AFAppDotNetAPIClient 6.m in Sources */,
+				93BCA174192A7BE200401D89 /* AFAppDotNetAPIClient 3.m in Sources */,
+				93BCA172192A7BE200401D89 /* ACHomeCustomCell.m in Sources */,
+				93BCA176192A7BE200401D89 /* AFAppDotNetAPIClient 5.m in Sources */,
+				93BCA179192A7BE200401D89 /* AFAppDotNetAPIClient.m in Sources */,
 				93BCA140192A5B3D00401D89 /* ViewController.m in Sources */,
+				93BCA173192A7BE200401D89 /* AFAppDotNetAPIClient 2.m in Sources */,
 				93BCA13A192A5B3D00401D89 /* AppDelegate.m in Sources */,
 				93BCA136192A5B3D00401D89 /* main.m in Sources */,
+				93BCA175192A7BE200401D89 /* AFAppDotNetAPIClient 4.m in Sources */,
+				93BCA178192A7BE200401D89 /* AFAppDotNetAPIClient 7.m in Sources */,
+				93BCA171192A7BE200401D89 /* ACHomeCBBCustomCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,6 +428,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestApp2/TestApp2-Prefix.pch";
 				INFOPLIST_FILE = "TestApp2/TestApp2-Info.plist";
@@ -389,6 +445,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestApp2/TestApp2-Prefix.pch";
 				INFOPLIST_FILE = "TestApp2/TestApp2-Info.plist";
@@ -456,6 +516,7 @@
 				93BCA15A192A5B3D00401D89 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		93BCA15B192A5B3D00401D89 /* Build configuration list for PBXNativeTarget "TestApp2Tests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +525,7 @@
 				93BCA15D192A5B3D00401D89 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
