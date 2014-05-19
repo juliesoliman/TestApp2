@@ -84,6 +84,11 @@ static void TMReachabilityCallback(SCNetworkReachabilityRef target, SCNetworkRea
 
 @implementation Reachability
 
+- (void)doNotUseParameter:(int)i
+{
+    
+}
+
 #pragma mark - class constructor methods
 +(Reachability*)reachabilityWithHostname:(NSString*)hostname
 {

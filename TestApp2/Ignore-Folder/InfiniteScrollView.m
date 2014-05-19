@@ -18,6 +18,11 @@
 
 @implementation InfiniteScrollView
 
+- (void)doNotUseParameter:(int)i
+{
+    
+}
+
 - (id)initWithCoder:(NSCoder *)aDecoder
 {
     if ((self = [super initWithCoder:aDecoder]))
