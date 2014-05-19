@@ -21,8 +21,8 @@
 		93BCA14B192A5B3D00401D89 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93BCA12D192A5B3D00401D89 /* UIKit.framework */; };
 		93BCA153192A5B3D00401D89 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 93BCA151192A5B3D00401D89 /* InfoPlist.strings */; };
 		93BCA155192A5B3D00401D89 /* TestApp2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA154192A5B3D00401D89 /* TestApp2Tests.m */; };
-		93BCA17E192A7D3700401D89 /* InfiniteScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA17B192A7D3700401D89 /* InfiniteScrollView.m */; };
-		93BCA17F192A7D3700401D89 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA17D192A7D3700401D89 /* Reachability.m */; };
+		93BCA184192A94E200401D89 /* InfiniteScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA181192A94E200401D89 /* InfiniteScrollView.m */; };
+		93BCA185192A94E200401D89 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 93BCA183192A94E200401D89 /* Reachability.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,10 +55,10 @@
 		93BCA150192A5B3D00401D89 /* TestApp2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestApp2Tests-Info.plist"; sourceTree = "<group>"; };
 		93BCA152192A5B3D00401D89 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		93BCA154192A5B3D00401D89 /* TestApp2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestApp2Tests.m; sourceTree = "<group>"; };
-		93BCA17A192A7D3700401D89 /* InfiniteScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfiniteScrollView.h; sourceTree = "<group>"; };
-		93BCA17B192A7D3700401D89 /* InfiniteScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfiniteScrollView.m; sourceTree = "<group>"; };
-		93BCA17C192A7D3700401D89 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
-		93BCA17D192A7D3700401D89 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		93BCA180192A94E200401D89 /* InfiniteScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = InfiniteScrollView.h; path = "Ignore-Folder/InfiniteScrollView.h"; sourceTree = "<group>"; };
+		93BCA181192A94E200401D89 /* InfiniteScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = InfiniteScrollView.m; path = "Ignore-Folder/InfiniteScrollView.m"; sourceTree = "<group>"; };
+		93BCA182192A94E200401D89 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Reachability.h; path = "Ignore-Folder/Reachability.h"; sourceTree = "<group>"; };
+		93BCA183192A94E200401D89 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Reachability.m; path = "Ignore-Folder/Reachability.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,10 +123,10 @@
 				93BCA13B192A5B3D00401D89 /* Main.storyboard */,
 				93BCA13E192A5B3D00401D89 /* ViewController.h */,
 				93BCA13F192A5B3D00401D89 /* ViewController.m */,
-				93BCA17A192A7D3700401D89 /* InfiniteScrollView.h */,
-				93BCA17B192A7D3700401D89 /* InfiniteScrollView.m */,
-				93BCA17C192A7D3700401D89 /* Reachability.h */,
-				93BCA17D192A7D3700401D89 /* Reachability.m */,
+				93BCA180192A94E200401D89 /* InfiniteScrollView.h */,
+				93BCA181192A94E200401D89 /* InfiniteScrollView.m */,
+				93BCA182192A94E200401D89 /* Reachability.h */,
+				93BCA183192A94E200401D89 /* Reachability.m */,
 				93BCA141192A5B3D00401D89 /* Images.xcassets */,
 				93BCA130192A5B3D00401D89 /* Supporting Files */,
 			);
@@ -262,8 +262,8 @@
 				93BCA140192A5B3D00401D89 /* ViewController.m in Sources */,
 				93BCA13A192A5B3D00401D89 /* AppDelegate.m in Sources */,
 				93BCA136192A5B3D00401D89 /* main.m in Sources */,
-				93BCA17E192A7D3700401D89 /* InfiniteScrollView.m in Sources */,
-				93BCA17F192A7D3700401D89 /* Reachability.m in Sources */,
+				93BCA184192A94E200401D89 /* InfiniteScrollView.m in Sources */,
+				93BCA185192A94E200401D89 /* Reachability.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
